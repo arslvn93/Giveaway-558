@@ -158,90 +158,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750443352683_0",
-      "questionText": "How do you currently spend your summer weekends?",
+      "id": "q_auto_1750445840887_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
-          "value": "Attending live sports games or events",
-          "text": "Attending live sports games or events"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "Relaxing at home with family",
-          "text": "Relaxing at home with family"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Exploring new activities or places",
-          "text": "Exploring new activities or places"
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "Working or catching up on professional tasks",
-          "text": "Working or catching up on professional tasks"
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1750443352683_1",
-      "questionText": "Which of the following closely matches your family setup?",
+      "id": "q_auto_1750445840887_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "Couple",
-          "text": "Couple"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Young couple with a child",
-          "text": "Young couple with a child"
+          "value": "Yes, in the next 1–2 years",
+          "text": "Yes, in the next 1–2 years"
         },
         {
-          "value": "Single professional",
-          "text": "Single professional"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "Family with older children",
-          "text": "Family with older children"
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1750443352683_2",
-      "questionText": "How often do you make time for social activities during the week?",
+      "id": "q_auto_1750445840887_2",
+      "questionText": "What’s your current housing situation?",
       "options": [
         {
-          "value": "Daily",
-          "text": "Daily"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "A few times a week",
-          "text": "A few times a week"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "Once a week",
-          "text": "Once a week"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "Rarely",
-          "text": "Rarely"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1750443352684_3",
-      "questionText": "Which of the following best describes your interest in sports events or live performances?",
-      "options": [
-        {
-          "value": "I regularly attend games or performances",
-          "text": "I regularly attend games or performances"
-        },
-        {
-          "value": "I attend occasionally; enjoy the atmosphere",
-          "text": "I attend occasionally; enjoy the atmosphere"
-        },
-        {
-          "value": "I've attended a few in the past",
-          "text": "I've attended a few in the past"
-        },
-        {
-          "value": "Not really interested, but open to trying",
-          "text": "Not really interested, but open to trying"
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
