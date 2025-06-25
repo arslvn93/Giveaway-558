@@ -161,7 +161,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750871315661_0",
+      "id": "q_auto_1750871346324_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -183,7 +183,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750871315661_1",
+      "id": "q_auto_1750871346324_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750871315661_2",
+      "id": "q_auto_1750871346324_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -251,7 +251,7 @@ const config = {
       "email": "jk@property.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066683698-206K3CJ2XPFVVBZPDW8R/image-asset.jpeg?format=1000w",
+    "organizerLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604940254317-K8272CWFFET2GRYN0BXA/Property_logo_W.png",
     "secondaryLogoUrl": "",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
     "organizerName": "Julian Kashani",
