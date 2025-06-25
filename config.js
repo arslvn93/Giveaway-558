@@ -27,16 +27,10 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -81,7 +75,7 @@ const config = {
     ],
     "name": "Toronto Blue Jays Summer Game Night Experience",
     "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
+    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you two premium tickets for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
     "limitedTimeOfferText": "Summer Only - Limited Entry!",
     "ctaButtonText": "I Want These Game Tickets!"
   },
@@ -167,7 +161,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1750871224220_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -189,7 +183,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1750871224220_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -211,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1750871224220_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -233,6 +227,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "🎉 ONE MORE STEP",
+    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
+    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/JulianKashaniRealtor",
@@ -245,7 +251,7 @@ const config = {
       "email": "jk@property.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
+    "organizerLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg?format=1000w",
     "secondaryLogoUrl": "",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
     "organizerName": "Julian Kashani",
