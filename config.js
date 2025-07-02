@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
+    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers on Saturday, August 16th, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
     "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
     "endDate": "2025-07-26T03:59:00.000Z",
@@ -73,7 +73,7 @@ const config = {
         "text": "Game date: Summer 2025, Texas Rangers matchup"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
+    "name": "Toronto Blue Jays Summer Game Night Experience - August 16th",
     "value": "$400 Value",
     "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you two premium tickets for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
     "limitedTimeOfferText": "Summer Only - Limited Entry!",
@@ -161,7 +161,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750873002783_0",
+      "id": "q_auto_1751469409376_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -183,7 +183,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750873002783_1",
+      "id": "q_auto_1751469409376_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750873002783_2",
+      "id": "q_auto_1751469409376_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
